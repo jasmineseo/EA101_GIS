@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<descript>
+<abstract>This is the draft version of SCAG's 2016 land use dataset, updated as of November 2018, including general plan land use, specific plan land use, zoning code and existing land use. Please note this data was reviewed by local jurisdictions and reflects each jurisdiction's input received during the SCAG's 2020 RTP/SCS Local Input and Envisioning Process. SCAG worked with the region’s 197 local jurisdictions to refine this information during the Bottom-Up Local Input and Envisioning Process beginning in summer 2017. Data contained here reflects local feedback, and is to be used for research purposes. Official information on land use should be obtained from each local jurisdiction directly.</abstract>
+<purpose>To aid in forecasting land supply and demand for the SCAG region and to be used as a planning tool. To provide GIS users with countywide land use information, including general plan land use, specific plan land use, zoning code and existing land use </purpose>
+</descript>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>Land Use</themekey>
+<themekey>LandUseCombined</themekey>
+<themekey>Orange</themekey>
+<themekey>SCAG</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst/>
+<datacred/>
+</idinfo>
+<metainfo>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>
