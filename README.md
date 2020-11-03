@@ -2,7 +2,7 @@
 
 Author: Jasmine Seo
 
-This repository includes sample work from the EA101 taken at Pomona College in Fall 2019, as a part of my Environmental Analysis Emphasis (minor). In this course, I learned fundamental GIS concepts, such as geocoding and geodata management, and utilized GIS tools (ArcGIS Online, ArcGIS/ArcMap Desktop v10.6).
+This repository includes sample work from EA101, taken at Pomona College in Fall 2019, as a part of my Environmental Analysis Emphasis (minor). In this course, I learned fundamental GIS concepts, such as geocoding, raster data, and geodata management, and utilized GIS tools (ArcGIS Online, ArcMap v10.6).
 
 ## Projects
 
